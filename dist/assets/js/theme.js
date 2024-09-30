@@ -1,4 +1,3 @@
-/* Sticky Navigation */
 $(function() {
   
   var sticky = $('.sticky');
